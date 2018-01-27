@@ -46,7 +46,7 @@ int main() {
 }
 ```
 
-```
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -65,7 +65,7 @@ public class Main {
 
 ## C
 
-```
+```cpp
 #include <vector>
 #include <iostream>
 using namespace std;
@@ -83,10 +83,9 @@ int main() {
         cout << endl;
     }
     return 0;
-
 ```
 
-```
+```java
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -114,7 +113,7 @@ public class Main {
 
 ## D
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 string a[3];
@@ -188,7 +187,7 @@ int main() {
 }
 ```
 
-```
+```java
 import java.util.ArrayList;
 import java.util.Scanner;
 
